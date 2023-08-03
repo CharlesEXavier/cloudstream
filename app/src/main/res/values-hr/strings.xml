@@ -417,7 +417,7 @@
     <string name="add_repository">Dodaj repository</string>
     <string name="repository_name_hint">Ime repositorya</string>
     <string name="repository_url_hint">URL spremišta (repositorija)</string>
-    <string name="plugin_loaded">Dodatak je učitan</string>
+    <string name="plugin_loaded">Dodatak učitan</string>
     <string name="plugin_deleted">Dodatak je izbrisan</string>
     <string name="plugin_load_fail" formatted="true">Nije moguće učitati %s</string>
     <string name="is_adult">18+</string>
@@ -459,9 +459,9 @@
     <string name="extension_types">Podržano</string>
     <string name="extension_language">Jezik</string>
     <string name="hls_playlist">HLS Playlista</string>
-    <string name="automatic_plugin_download">Automatski instaliraj ekstenzije</string>
+    <string name="automatic_plugin_download">Automatski instaliraj dodatke</string>
     <string name="skip_type_creddits">Zasluge</string>
-    <string name="automatic_plugin_download_summary">Automatski instaliraj sve neinstalirane ekstenzije iz dodanih repozitorija.</string>
+    <string name="automatic_plugin_download_summary">Automatski instaliraj sve neinstalirane dodatke iz dodanih repozitorija.</string>
     <string name="player_pref">Preferirani video player</string>
     <string name="player_settings_play_in_app">Interni player</string>
     <string name="extension_install_first">Prvo instalirajte ekstenziju</string>
@@ -565,4 +565,5 @@
     <string name="qualities">Kvalitete</string>
     <string name="profile_background_des">Pozadina profila</string>
     <string name="unable_to_inflate">Nije bilo moguće ispravno izraditi korisničko sučelje. Ovo je ZNAČAJNA GREŠKA i treba se odmah prijaviti %s</string>
+    <string name="automatic_plugin_download_mode_title">Odaberi modus za filtriranje preuzimanja dodataka</string>
 </resources>
